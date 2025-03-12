@@ -1,0 +1,1 @@
+const string EcologyPath = ProfilePath + "Ecology/";

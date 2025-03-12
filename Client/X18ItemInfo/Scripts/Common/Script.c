@@ -1,0 +1,2 @@
+#define X18ITEMINFO
+#define X18ITEMINFODEBUG

@@ -1,0 +1,1 @@
+modded class X18_Artefact_Crystal_Base : X18_Artefact_Base {}

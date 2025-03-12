@@ -1,0 +1,1 @@
+ref array<string> m_Slots = { "Vest", "Body", "Back", "Legs", "Headgear", "Mask", "Gloves", "Feet" };

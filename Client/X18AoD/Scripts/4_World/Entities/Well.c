@@ -1,0 +1,1 @@
+class Land_Escape_village_source : Well {}

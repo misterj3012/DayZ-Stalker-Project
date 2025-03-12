@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<modded_inputs>
+
+	<!-- declarations -->
+	<inputs>
+		<actions>
+			<input name="EquipBolt" loc="Bolt" />
+		</actions>
+	</inputs>
+
+	<!-- preset -->
+	<preset>
+		<input name="EquipBolt">
+			<btn name="kB" />
+		</input>
+	</preset>
+
+</modded_inputs>

@@ -1,0 +1,1 @@
+class X18_Meds_Mexamin_Injector : Morphine {};

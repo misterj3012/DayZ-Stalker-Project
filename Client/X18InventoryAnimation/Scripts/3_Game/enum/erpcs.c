@@ -1,0 +1,4 @@
+enum EVIARPCs : ERPCs
+{
+    RPC_SETTINGS = -5647132,
+}

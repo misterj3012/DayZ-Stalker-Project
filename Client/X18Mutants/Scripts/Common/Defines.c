@@ -1,0 +1,2 @@
+#define X18_MUTANTS
+#define X18_MUTANTS_DEBUG

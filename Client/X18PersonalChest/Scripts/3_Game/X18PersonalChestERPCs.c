@@ -1,0 +1,5 @@
+enum X18PersonalChestERPCs : X18RPCs
+{
+	REMOVE_CHEST_RPC = 33000,
+	SET_PERSONAL
+}

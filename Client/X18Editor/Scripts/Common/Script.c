@@ -1,0 +1,2 @@
+#define X18EDITOR
+#define X18EDITORDEBUG

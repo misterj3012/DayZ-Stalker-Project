@@ -1,0 +1,2 @@
+#define X18AMBIENT
+#define X18AMBIENTDEBUG

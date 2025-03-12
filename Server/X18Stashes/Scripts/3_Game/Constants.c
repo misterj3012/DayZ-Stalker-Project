@@ -1,0 +1,1 @@
+const string StashesPath = ProfilePath + "Stashes/";

@@ -1,0 +1,1 @@
+const private static string m_DetectorLogText = "DetectorBase";

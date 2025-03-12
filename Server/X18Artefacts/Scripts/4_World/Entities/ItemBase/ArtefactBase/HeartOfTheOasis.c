@@ -1,0 +1,1 @@
+modded class X18_Artefact_HeartOfTheOasis_Base : X18_Artefact_Base {}

@@ -1,0 +1,1 @@
+const string LockableDoorsPath = ProfilePath + "LockableDoors.json";

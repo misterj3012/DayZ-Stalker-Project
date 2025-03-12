@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<modded_inputs>
+	<inputs>
+		<actions>
+			<input name="UATogglePDA" loc="PDA" />
+		</actions>
+	</inputs>
+	<preset>
+		<input name="UATogglePDA">
+			<btn name="kM" />
+		</input>
+	</preset>
+</modded_inputs>

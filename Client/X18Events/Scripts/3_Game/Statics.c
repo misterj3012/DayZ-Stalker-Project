@@ -1,0 +1,1 @@
+static const ref array<string> LIGHTNING_BOLT_TYPES = { "ThunderBolt", "ThunderBoltHeavy" };

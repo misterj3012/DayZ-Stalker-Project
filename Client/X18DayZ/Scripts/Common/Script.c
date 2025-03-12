@@ -1,0 +1,2 @@
+#define X18DAYZ
+#define X18DAYZDEBUG

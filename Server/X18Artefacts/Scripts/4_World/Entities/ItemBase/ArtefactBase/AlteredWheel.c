@@ -1,0 +1,1 @@
+modded class X18_Artefact_AlteredWheel_Base : X18_Artefact_Base {}

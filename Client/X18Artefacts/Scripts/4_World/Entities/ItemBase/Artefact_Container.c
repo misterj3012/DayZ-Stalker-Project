@@ -1,0 +1,1 @@
+class X18_Artefact_Container_Base : Inventory_Base {};

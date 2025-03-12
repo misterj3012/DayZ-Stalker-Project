@@ -1,0 +1,2 @@
+#define X18EVENTS
+#define X18EVENTSDEBUG
